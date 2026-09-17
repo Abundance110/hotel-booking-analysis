@@ -50,7 +50,7 @@ All cleaning was performed in Power Query for full reproducibility.
 
 ### 1. Top 5 Countries by Travelers
 **Portugal (90,036 travelers)** dominates — nearly 4x the next-highest country (UK, 24,568), followed by France, Spain, and Germany. Expected, since both hotels are located in Portugal.
-![Top 5 Countries](images/top_countrypivottable.jpg)
+![Top 5 Countries](images/top_countypivottable.jpg)
 
 ### 2. Highest ADR
 **$510.00** — a City Hotel booking from a guest in Italy. *(Reported by hotel/country, not by name, since `name` is an artificially generated field, not a real identifier.)*
