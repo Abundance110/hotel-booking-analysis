@@ -103,4 +103,4 @@ A clear seasonal curve — rates climb from **$70.36 in January** to a peak of *
 ## Files in This Repo
 
 - `images/` — dashboard and process screenshots referenced above
-- Full Excel workbook: see Google Drive link above (cleaned data, all pivot tables, and interactive dashboard)
+- Full Excel workbook: see Google Drive link above (https://docs.google.com/spreadsheets/d/1XFoTJW12WFYDVtFJzv9yQZneF2-p26Nt/edit?pli=1&gid=783351461#gid=783351461)
