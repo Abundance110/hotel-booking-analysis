@@ -22,7 +22,7 @@ This project analyzes hotel booking data to answer 5 core business questions plu
 ![Dashboard Overview](images/Dashboard.jpg)
 *Interactive Excel dashboard with KPI cards, cancellation/hotel slicers, and charts covering all 8 questions.*
 
-📊 [Download the full Excel workbook]((https://docs.google.com/spreadsheets/d/1XFoTJW12WFYDVtFJzv9yQZneF2-p26Nt/edit?usp=drivesdk&ouid=109816520819276604582&rtpof=true&sd=true)) (hosted on Google Drive — file exceeds GitHub's size limit for direct hosting)
+📊 [Download the full Excel workbook]((https://docs.google.com/spreadsheets/d/1XFoTJW12WFYDVtFJzv9yQZneF2-p26Nt/edit?usp=drivesdk&ouid=109816520819276604582&rtpof=true&sd=true) (hosted on Google Drive — file exceeds GitHub's size limit for direct hosting)
 
 ---
 
