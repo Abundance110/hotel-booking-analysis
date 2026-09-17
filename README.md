@@ -72,10 +72,14 @@ A clean, strong pattern — cancellation rate rises from **10% (0–7 days out)*
 ### 7. Cancellation Rate by Market Segment & Channel
 **Groups (61%)** cancel roughly 4x more often than **Direct bookings (15%)**. By channel, **Travel Agent/Tour Operator (41%, 82% of all bookings)** cancels more than twice as often as **Direct (17%)**. Direct bookings are consistently the most reliable channel across both breakdowns.
 
+![Cancellation by Market Segment](images/cancellatiobymarketsegment_pivot.jpg)
+
+![Cancellation by Distribution Channel](images/cancellationbydistribution_pivot.jpg)
+
 ### 8. ADR by Month/Season
 A clear seasonal curve — rates climb from **$70.36 in January** to a peak of **$140.11 in August**, then decline back to **$73.79 by November**, consistent with expected Portuguese tourism seasonality.
 
-![ADR by Month](images/adr_by_month.png)
+![ADR by Month](images/adrbymonth_pivot.jpg)
 
 ---
 
