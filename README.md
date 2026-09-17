@@ -67,7 +67,7 @@ Data shows a maximum of **10**, tied across 2 bookings — but this is flagged a
 ### 6. Cancellation Rate by Lead Time
 A clean, strong pattern — cancellation rate rises from **10% (0–7 days out)** to **57% (180+ days out)**, a 5.7x increase, across large sample sizes at every step.
 
-![Cancellation by Lead Time](images/cancellation_by_lead_time.png)
+![Cancellation by Lead Time](images/cancellationbyleadtime_pivot.jpg)
 
 ### 7. Cancellation Rate by Market Segment & Channel
 **Groups (61%)** cancel roughly 4x more often than **Direct bookings (15%)**. By channel, **Travel Agent/Tour Operator (41%, 82% of all bookings)** cancels more than twice as often as **Direct (17%)**. Direct bookings are consistently the most reliable channel across both breakdowns.
